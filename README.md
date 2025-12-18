@@ -150,4 +150,4 @@ All semantic changes require version bump.
 
 ## Contact
 
-Built by PARCRI Holdings.
+Built by Jared N. Lewis.
