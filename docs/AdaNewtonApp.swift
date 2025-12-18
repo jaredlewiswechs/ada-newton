@@ -1,6 +1,6 @@
 // CANON FREEZE CONFIRMED — v1.2
 // All semantic changes require version bump
-//
+//Copyright (c) 2025 Jared Lewis Conglomerate. All rights reserved.
 // AdaNewtonApp.swift
 // Ada: The Conversational Interface
 // Newton: The Epistemic Governor (v1.2)
