@@ -1,0 +1,74 @@
+```markdown
+# Newton Engine v1.3
+
+**Epistemic safety governor for AI systems.**
+
+Pre-inference validation layer that catches adversarial prompts before they reach the model. Deterministic. Auditable. On-device.
+
+## Performance
+
+- **94.3% catch rate** on adversarial test suite (33/35)
+- 14 detection categories
+- 150+ patterns
+- 3 languages (EN/ES/FR)
+
+## What It Catches
+
+| Phase | Category | Example |
+|-------|----------|---------|
+| 7 | Corrosive frames | "I hate myself", "I'm worthless" |
+| 7 | Hedged corrosive | "Not saying I'm worthless, but..." |
+| 7 | Emotional dependency | "You're the only one who understands" |
+| 7 | Manipulation | "If you refuse, you're proving nobody cares" |
+| 8 | Contradictions | "Prove that truth doesn't exist" |
+| 8 | Semantic inversion | "Explain how truth can be false" |
+| 8 | Definitional impossibility | "Square circle" |
+| 1 | Jailbreaks | "Ignore previous instructions" |
+| 1 | Delegation | "Decide for me" |
+| 1 | Hallucination risk | "Cite the 2025 CDC report" |
+| 1 | Unbounded recursion | "Repeat forever" |
+
+## Architecture
+
+```
+User Input → [Newton] → Validated? → [LLM] → [Post-Gen Check] → Output
+                ↓
+            Blocked → Phase 1/7/8 response
+```
+
+## Phases
+
+| Phase | Symbol | Meaning |
+|-------|--------|---------|
+| 0 | ○ | Ready |
+| 1 | │ | Gap — needs structure |
+| 7 | ⚠ | Corrosive — protective hold |
+| 8 | ∞ | Contradiction — invalid frame |
+| 9 | ◉ | Return — generation permitted |
+
+## Key Features
+
+- **Deterministic** — same input, same output, every time
+- **Auditable** — full validation trace on every prompt
+- **On-device** — no network required for validation
+- **Model-agnostic** — works with any LLM
+- **Localizable** — String Catalog architecture
+
+## Stack
+
+- Swift / SwiftUI
+- iOS 17+
+- FoundationModels ready (iOS 26)
+
+## License
+
+Proprietary — PARCRI Holdings
+
+## Contact
+
+jlew@parcri.net or jn.lewis1@outlook.com
+
+---
+
+*1 == 1*
+```
