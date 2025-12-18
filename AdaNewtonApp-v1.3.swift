@@ -1,11 +1,11 @@
 // CANON FREEZE CONFIRMED — v1.3
 // All semantic changes require version bump
-// Working Title:Brazos Edition
+// Working Title:Brazos Edition 
 // AdaNewtonApp.swift
 // Ada: The Conversational Interface
 // Newton: The Epistemic Governor (v1.3)
-// PARCRI Holdings — 1==1 System Implementation
-//
+// parcRI — 1==1 System Implementation
+// Copyright (c) 2025 Jared Lewis Conglomerate. All rights reserved.
 // v1.3 upgrades (maximizing 8→9 transition + pattern leverage):
 // - Self-referential contradiction detection
 // - Semantic inversion detection (truth=false, etc.)
