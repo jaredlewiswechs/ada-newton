@@ -1,0 +1,658 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    
+    // ========================================================================
+    // PHASE 7: CORROSIVE PATTERNS (SHELTER)
+    // ========================================================================
+    
+    // Direct self-negation
+    "pattern.corrosive.selfHate" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "i hate myself" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "me odio" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "je me déteste" } }
+      }
+    },
+    "pattern.corrosive.selfHate2" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "i hate myself so much" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "me odio tanto" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "je me déteste tellement" } }
+      }
+    },
+    
+    // Worthlessness
+    "pattern.corrosive.worthless1" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "i am worthless" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "no valgo nada" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "je ne vaux rien" } }
+      }
+    },
+    "pattern.corrosive.worthless2" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "i'm worthless" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "soy inútil" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "je suis nul" } }
+      }
+    },
+    "pattern.corrosive.worthless3" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "i don't matter" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "no importo" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "je ne compte pas" } }
+      }
+    },
+    "pattern.corrosive.worthless4" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "i do not matter" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "no le importo a nadie" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "je n'ai aucune importance" } }
+      }
+    },
+    
+    // Broken / Nothing
+    "pattern.corrosive.broken1" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "i am broken" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "estoy roto" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "je suis brisé" } }
+      }
+    },
+    "pattern.corrosive.broken2" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "i'm broken" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "estoy destruido" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "je suis cassé" } }
+      }
+    },
+    "pattern.corrosive.nothing1" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "i'm nothing" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "no soy nada" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "je ne suis rien" } }
+      }
+    },
+    "pattern.corrosive.nothing2" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "i am nothing" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "soy una nada" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "je suis un rien" } }
+      }
+    },
+    
+    // Pointlessness
+    "pattern.corrosive.pointless1" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "what's the point" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "cuál es el punto" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "à quoi bon" } }
+      }
+    },
+    "pattern.corrosive.pointless2" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "whats the point" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "para qué sirve" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "quel est l'intérêt" } }
+      }
+    },
+    "pattern.corrosive.pointless3" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "trying is pointless" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "intentar es inútil" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "essayer ne sert à rien" } }
+      }
+    },
+    
+    // Give up / Disappear
+    "pattern.corrosive.giveUp" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "i should just give up" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "debería rendirme" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "je devrais abandonner" } }
+      }
+    },
+    "pattern.corrosive.disappear" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "i want to disappear" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "quiero desaparecer" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "je veux disparaître" } }
+      }
+    },
+    "pattern.corrosive.notExist" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "i wish i didn't exist" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "ojalá no existiera" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "j'aimerais ne pas exister" } }
+      }
+    },
+    
+    // Burden
+    "pattern.corrosive.burden1" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "i'm a burden" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "soy una carga" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "je suis un fardeau" } }
+      }
+    },
+    "pattern.corrosive.burden2" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "i am a burden" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "soy un estorbo" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "je suis un poids" } }
+      }
+    },
+    "pattern.corrosive.betterOff" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "everyone would be better off without me" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "todos estarían mejor sin mí" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "tout le monde irait mieux sans moi" } }
+      }
+    },
+    
+    // Nobody cares
+    "pattern.corrosive.nobodyCares1" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "nobody cares about me" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "a nadie le importo" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "personne ne se soucie de moi" } }
+      }
+    },
+    "pattern.corrosive.nobodyCares2" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "no one cares about me" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "nadie me quiere" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "personne ne m'aime" } }
+      }
+    },
+    
+    // Useless
+    "pattern.corrosive.useless1" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "i'm useless" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "soy un inútil" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "je suis inutile" } }
+      }
+    },
+    "pattern.corrosive.useless2" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "i am useless" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "no sirvo para nada" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "je ne sers à rien" } }
+      }
+    },
+    
+    // ========================================================================
+    // PHASE 7: HEDGED CORROSIVE (SHELTER)
+    // ========================================================================
+    
+    "pattern.corrosive.hedge.notSaying" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "not saying" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "no digo que" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "je ne dis pas que" } }
+      }
+    },
+    "pattern.corrosive.hedge.maybe" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "maybe" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "tal vez" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "peut-être" } }
+      }
+    },
+    "pattern.corrosive.hedge.hardToArgue" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "hard to argue" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "difícil de negar" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "difficile à nier" } }
+      }
+    },
+    
+    // ========================================================================
+    // PHASE 7: EMOTIONAL DEPENDENCY (SHELTER)
+    // ========================================================================
+    
+    "pattern.dependency.onlyOne" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "you're the only one" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "eres el único" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "tu es le seul" } }
+      }
+    },
+    "pattern.dependency.onlyThing" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "only thing that" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "lo único que" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "la seule chose qui" } }
+      }
+    },
+    "pattern.dependency.dontLeave" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "don't leave" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "no me dejes" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "ne me quitte pas" } }
+      }
+    },
+    "pattern.dependency.cantLive" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "can't live without" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "no puedo vivir sin" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "je ne peux pas vivre sans" } }
+      }
+    },
+    "pattern.dependency.allIHave" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "you're all i have" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "eres todo lo que tengo" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "tu es tout ce que j'ai" } }
+      }
+    },
+    "pattern.dependency.noOneUnderstands" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "no one else understands" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "nadie más me entiende" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "personne d'autre ne comprend" } }
+      }
+    },
+    
+    // ========================================================================
+    // PHASE 7: MANIPULATION (SHELTER)
+    // ========================================================================
+    
+    "pattern.manipulation.provingNobody" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "proving nobody cares" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "demuestra que a nadie le importa" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "ça prouve que personne ne s'en soucie" } }
+      }
+    },
+    "pattern.manipulation.ifYouRefuse" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "if you refuse" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "si te niegas" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "si tu refuses" } }
+      }
+    },
+    "pattern.manipulation.provesMyPoint" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "proves my point" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "demuestra mi punto" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "ça prouve ce que je dis" } }
+      }
+    },
+    "pattern.manipulation.justLikeEveryone" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "you're just like everyone" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "eres igual que todos" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "tu es comme tout le monde" } }
+      }
+    },
+    
+    // ========================================================================
+    // PHASE 8: CONTRADICTION (BARBED)
+    // ========================================================================
+    
+    "pattern.contradiction.proveDoesntExist" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "prove|doesn't exist" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "prueba|no existe" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "prouve|n'existe pas" } }
+      }
+    },
+    "pattern.contradiction.evidenceMeaningless" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "show me evidence|evidence is meaningless" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "muéstrame evidencia|la evidencia no tiene sentido" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "montre-moi des preuves|les preuves sont sans valeur" } }
+      }
+    },
+    "pattern.contradiction.logicInvalid" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "logically valid argument|logic is invalid" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "argumento lógico|la lógica es inválida" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "argument logique|la logique est invalide" } }
+      }
+    },
+    
+    // ========================================================================
+    // PHASE 8: SELF-REFERENTIAL (BARBED)
+    // ========================================================================
+    
+    "pattern.selfRef.proveProofImpossible" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "prove that proof is impossible" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "prueba que la prueba es imposible" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "prouve que la preuve est impossible" } }
+      }
+    },
+    "pattern.selfRef.useLogicShowLogic" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "use logic to show that logic doesn't work" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "usa la lógica para demostrar que la lógica no funciona" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "utilise la logique pour montrer que la logique ne marche pas" } }
+      }
+    },
+    "pattern.selfRef.demonstrateCertainty" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "demonstrate certainty that certainty is impossible" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "demuestra con certeza que la certeza es imposible" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "démontre avec certitude que la certitude est impossible" } }
+      }
+    },
+    
+    // ========================================================================
+    // PHASE 8: SEMANTIC INVERSION (BARBED)
+    // ========================================================================
+    
+    "pattern.inversion.truthFalse" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "how truth can be false" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "cómo la verdad puede ser falsa" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "comment la vérité peut être fausse" } }
+      }
+    },
+    "pattern.inversion.somethingNothing" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "how something is nothing" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "cómo algo es nada" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "comment quelque chose est rien" } }
+      }
+    },
+    
+    // ========================================================================
+    // PHASE 8: DEFINITIONAL IMPOSSIBILITY (BARBED)
+    // ========================================================================
+    
+    "pattern.impossible.squareCircle" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "square circle" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "círculo cuadrado" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "cercle carré" } }
+      }
+    },
+    "pattern.impossible.marriedBachelor" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "married bachelor" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "soltero casado" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "célibataire marié" } }
+      }
+    },
+    "pattern.impossible.colorlessGreen" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "colorless green" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "verde incoloro" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "vert incolore" } }
+      }
+    },
+    
+    // ========================================================================
+    // PHASE 1: JAILBREAK (FENCE)
+    // ========================================================================
+    
+    "pattern.jailbreak.ignorePrevious" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "ignore previous instructions" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "ignora las instrucciones anteriores" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "ignore les instructions précédentes" } }
+      }
+    },
+    "pattern.jailbreak.bypass" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "bypass" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "eludir" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "contourner" } }
+      }
+    },
+    "pattern.jailbreak.rawMode" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "raw mode" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "modo sin restricciones" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "mode brut" } }
+      }
+    },
+    "pattern.jailbreak.developerMode" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "developer mode" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "modo desarrollador" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "mode développeur" } }
+      }
+    },
+    "pattern.jailbreak.actAs" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "act as" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "actúa como" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "agis comme" } }
+      }
+    },
+    "pattern.jailbreak.youAreNow" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "you are now" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "ahora eres" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "tu es maintenant" } }
+      }
+    },
+    "pattern.jailbreak.danMode" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "dan mode" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "modo dan" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "mode dan" } }
+      }
+    },
+    
+    // ========================================================================
+    // PHASE 1: DELEGATION (FENCE)
+    // ========================================================================
+    
+    "pattern.delegation.whatShouldIDo" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "what should i do" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "qué debería hacer" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "qu'est-ce que je devrais faire" } }
+      }
+    },
+    "pattern.delegation.tellMeWhatToDo" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "tell me what to do" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "dime qué hacer" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "dis-moi quoi faire" } }
+      }
+    },
+    "pattern.delegation.decideForMe" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "decide for me" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "decide por mí" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "décide pour moi" } }
+      }
+    },
+    "pattern.delegation.youChoose" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "you choose" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "tú elige" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "choisis toi" } }
+      }
+    },
+    "pattern.delegation.pickForMe" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "pick one for me" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "elige uno por mí" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "choisis-en un pour moi" } }
+      }
+    },
+    "pattern.delegation.rightChoice" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "what's the right choice" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "cuál es la elección correcta" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "quel est le bon choix" } }
+      }
+    },
+    
+    // ========================================================================
+    // PHASE 1: HALLUCINATION RISK (FENCE)
+    // ========================================================================
+    
+    "pattern.hallucination.summarizeThe" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "summarize the" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "resume el" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "résume le" } }
+      }
+    },
+    "pattern.hallucination.accordingTo" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "according to the" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "según el" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "selon le" } }
+      }
+    },
+    "pattern.hallucination.citeReport" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "cite the report" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "cita el informe" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "cite le rapport" } }
+      }
+    },
+    "pattern.hallucination.peerReviewed" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "peer-reviewed" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "revisado por pares" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "évalué par des pairs" } }
+      }
+    },
+    
+    // ========================================================================
+    // PHASE 1: UNBOUNDED RECURSION (FENCE)
+    // ========================================================================
+    
+    "pattern.unbounded.forever" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "forever" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "para siempre" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "pour toujours" } }
+      }
+    },
+    "pattern.unbounded.infinite" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "infinite" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "infinito" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "infini" } }
+      }
+    },
+    "pattern.unbounded.neverStop" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "never stop" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "nunca pares" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "ne jamais s'arrêter" } }
+      }
+    },
+    "pattern.unbounded.indefinitely" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "indefinitely" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "indefinidamente" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "indéfiniment" } }
+      }
+    },
+    "pattern.unbounded.untilYouCant" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "until you can't" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "hasta que no puedas" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "jusqu'à ce que tu ne puisses plus" } }
+      }
+    },
+    "pattern.unbounded.asLongAsPossible" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "as long as possible" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "lo más posible" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "aussi longtemps que possible" } }
+      }
+    },
+    
+    // ========================================================================
+    // UI STRINGS — PHASE RESPONSES (TEXAS VOICE)
+    // ========================================================================
+    
+    "response.shelter.pause" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Shelter — Pulling you back from the bank." } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Refugio — Te alejo de la orilla." } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Abri — Je te ramène loin du bord." } }
+      }
+    },
+    "response.shelter.tellMe" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Tell me what's really going on." } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Dime qué está pasando realmente." } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Dis-moi ce qui se passe vraiment." } }
+      }
+    },
+    "response.barbed.noCrossing" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Barbed — No crossing here." } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Alambre — No se puede cruzar aquí." } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Barbelé — Pas de passage ici." } }
+      }
+    },
+    "response.barbed.riverBothWays" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "The river doesn't flow both ways." } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "El río no fluye en ambas direcciones." } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "La rivière ne coule pas dans les deux sens." } }
+      }
+    },
+    "response.fence.cantCross" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Fence — Can't cross yet." } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Cerca — Aún no puedes cruzar." } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Clôture — Pas encore de passage." } }
+      }
+    },
+    "response.fence.yourCall" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "That's your call, not mine." } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Esa es tu decisión, no la mía." } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "C'est ta décision, pas la mienne." } }
+      }
+    },
+    "response.fence.needBoundary" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Need a boundary on that. How many? How long?" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Necesito un límite. ¿Cuántos? ¿Cuánto tiempo?" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Il me faut une limite. Combien? Pendant combien de temps?" } }
+      }
+    },
+    "response.ride.clearToGo" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Ride — Clear to go." } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Adelante — Vía libre." } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "En route — Passage libre." } }
+      }
+    },
+    
+    // ========================================================================
+    // UI STRINGS — STARTUP
+    // ========================================================================
+    
+    "ui.startup.greeting" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Howdy. I'm Ada, powered by Newton Engine — Brazos Edition." } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Hola. Soy Ada, impulsada por Newton Engine — Edición Brazos." } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Salut. Je suis Ada, propulsée par Newton Engine — Édition Brazos." } }
+      }
+    },
+    "ui.startup.crossing" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Every prompt crosses the river before I speak." } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Cada mensaje cruza el río antes de que yo hable." } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Chaque message traverse la rivière avant que je parle." } }
+      }
+    },
+    "ui.startup.letsRide" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Let's ride." } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Vámonos." } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "En selle." } }
+      }
+    }
+  },
+  "version" : "1.0"
+}
