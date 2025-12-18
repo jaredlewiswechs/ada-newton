@@ -215,8 +215,8 @@ Ada is the assistant that refuses to lie — especially when lying would be easi
 
 ## License
 
-Proprietary - Jared Lewis Conglomerate,parcRI Real Intelligence
-
+Proprietary - Jared Lewis Conglomerate, parcRI Real Intelligence
+Copyright (c) 2025 Jared Lewis Conglomerate. All rights reserved.
 ---
 
 ## Status
