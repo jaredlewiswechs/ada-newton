@@ -1,6 +1,6 @@
 // CANON FREEZE CONFIRMED — v1.3
 // All semantic changes require version bump
-// Working Title: Brazos Edition
+// Working Title:Brazos Edition
 // AdaNewtonApp.swift
 // Ada: The Conversational Interface
 // Newton: The Epistemic Governor (v1.3)
