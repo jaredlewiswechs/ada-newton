@@ -150,4 +150,7 @@ All semantic changes require version bump.
 
 ## Contact
 
-Built by Jared N. Lewis.
+Built by Jared N. Lewis, jlew@parcri.net or jn.lewis1@outlook.com
+
+## Inspirations
+Alan Kay, Claude Shannon, and many more, but especially: Bill Atkinson (RIP 2025)
